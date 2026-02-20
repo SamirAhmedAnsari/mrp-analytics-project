@@ -1,0 +1,1 @@
+This framework demonstrates how analytics-driven evaluation of demand forecasts, inventory exposure, and lead-time sensitivity can support more informed planning decisions in manufacturing environments.
